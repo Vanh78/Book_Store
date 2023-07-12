@@ -1,0 +1,7 @@
+DAO: data access object
+
+// select: lay tat ca doi tuong 
+// selectById: lay doi tuong theo id
+// insert: them mot doi tuong
+// delete: xoa mot doi tuong
+// update: cap nhat doi tuong
